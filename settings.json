@@ -1,0 +1,49 @@
+{
+    "clangd.path": "/home/alexandaraleksiev/.config/Code/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.3/clangd_15.0.3/bin/clangd",
+    "C_Cpp.default.cppStandard": "c++17",
+    "C_Cpp.default.cStandard": "c17",
+    "C_Cpp.formatting": "vcFormat",
+    "C_Cpp.clang_format_style": "Visual Studio",
+    "C_Cpp.autocompleteAddParentheses": true,
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.function": "newLine",
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.block": "newLine",
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.namespace": "newLine",
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.type": "newLine",
+    "C_Cpp.vcFormat.newLine.scopeBracesOnSeparateLines": true,
+    "C_Cpp.vcFormat.newLine.beforeElse": true,
+    "C_Cpp.vcFormat.space.betweenEmptyLambdaBrackets": true,
+    "C_Cpp.vcFormat.space.betweenEmptySquareBrackets": true,
+    "C_Cpp.vcFormat.space.afterComma": true,
+    "C_Cpp.vcFormat.space.aroundAssignmentOperator": "insert",
+    "C_Cpp.vcFormat.space.beforeInheritanceColon": true,
+    "C_Cpp.vcFormat.space.removeBeforeSemicolon": true,
+
+    "editor.defaultFormatter": "ms-vscode.cpptools",
+    // "editor.renderWhitespace": "all",
+    // "editor.rulers": [60, 120],
+    "editor.wordWrap":"wordWrapColumn",
+    "editor.wordWrapColumn": 120,
+    "editor.wordSeparators": "`~!@#$%^&*()-=+[{]}\\|;:'\",.<>/?",
+    "editor.minimap.enabled": false,
+    "editor.cursorStyle": "line",
+    "editor.cursorBlinking": "blink",
+    "editor.matchBrackets": "always",
+    
+    "explorer.compactFolders": false,
+
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "terminal.integrated.cursorBlinking": true,
+
+    "workbench.statusBar.visible": true,
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.editor.wrapTabs": true,
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.colorCustomizations": {
+        "[Default Dark+]": {
+            "tab.lastPinnedBorder": "#00ff37"
+        }
+    },
+    
+    "json.format.enable": true
+}
