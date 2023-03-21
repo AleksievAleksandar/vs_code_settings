@@ -1,5 +1,4 @@
 {
-    "clangd.path": "/home/alexandaraleksiev/.config/Code/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/15.0.3/clangd_15.0.3/bin/clangd",
     "C_Cpp.default.cppStandard": "c++17",
     "C_Cpp.default.cStandard": "c17",
     "C_Cpp.formatting": "vcFormat",
